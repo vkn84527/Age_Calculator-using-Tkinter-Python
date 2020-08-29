@@ -1,7 +1,6 @@
-# Age_Calculator-using-Tkinter-Python
-# Project: Age Calculator In Python With Source Code
 
-Please scroll down and click on the download button to download Age Calculator In Python project for free(Scroll Down)
+#  Age Calculator In Python With Source Code
+
 
 The Age Calculator In Python is a simple project developed using Python. The project is for the user convenient, to help them find out about their exact age in year, month and days. The project file contains a python script ( Age_Calculator_GUI.py). This is a simple GUI-base project which is very easy to understand and use. Also, this project makes a convenient way for the user to discover the exact age.
 
@@ -15,11 +14,11 @@ To run this project, you must have installed Python on your PC. After downloadin
 
 **Step1:** Extract/Unzip the file
 
-Step2: Go inside the project folder, open cmd then type Age_Calculator_GUI.py and enter to start the system.
+**Step2:** Go inside the project folder, open cmd then type Age_Calculator_GUI.py and enter to start the system.
 
 OR
 
-Step2: Simply, double click the Age_Calculator_GUI.py file and you are ready to go.
+**Step2:** Simply, double click the Age_Calculator_GUI.py file and you are ready to go.
 
 The Age Calculator in Python with source code is free to download, Use for educational purposes only! For the project demo, you can have a look at the video below:
 
