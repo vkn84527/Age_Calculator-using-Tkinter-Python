@@ -22,4 +22,7 @@ OR
 
 The Age Calculator in Python with source code is free to download, Use for educational purposes only! For the project demo, you can have a look at the video below:
 
+![Age Calculator](https://user-images.githubusercontent.com/44707673/91888187-7ed8ff80-eca9-11ea-800f-1c0fb8acb4a5.png)
+
+
 [Watch_Video](https://www.youtube.com/watch?v=xGI4YjCdHxM&feature=emb_logo)            [Download_Code](https://github.com/vkn84527/Age_Calculator-using-Tkinter-Python/blob/master/AgeCalculator/Age_Calculator_GUI.py)
